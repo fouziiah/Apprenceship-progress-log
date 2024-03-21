@@ -41,3 +41,18 @@
 
 ### Achievements:
 - Finished setting up my local development environment
+
+
+# March 20, 2024
+
+## Learnings:
+- Reviewed the project architecture and rails framework
+- Practiced Tailwind CSS 
+
+## Blockers:
+- None
+
+## Achievements:
+- Made significant progress in Tailwind CSS 
+
+
