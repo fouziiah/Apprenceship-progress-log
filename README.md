@@ -121,3 +121,16 @@
 - Successfully managed branching and version control.
 - Completed the assigned ticket on time.
 
+## April 1, 2024
+
+### Learnings:
+- Realized that factorybot.build and build are essentially the same thing.
+
+### Blockers:
+- Encountered challenges with rebasing my branch, which I wasn't very familiar with.
+- Faced test failures due to Rails assuming I was using "secret" for encryption, when in reality I was using "credentials". Resolved this issue successfully.
+- Dealt with a duplicate table error, which was reported by Rails despite the table not actually existing.
+
+### Achievements:
+- Successfully resolved all testing issues, including the duplicate table error.
+- Completed my first ticket, marking a significant milestone in my progress.
